@@ -1,0 +1,70 @@
+img {
+			width: 700px;
+			height: 60%;
+			padding-left: 0px;
+			padding-top: 0px;
+			
+		}
+		
+		.header {
+			padding-top: 50px;
+			background: none;
+			text-align: center;
+			font-family: Helvetica;
+			font-weight: lighter;
+			font-size: 1.2em;
+		}
+		
+		.index-links {
+			font-family: Helvetica;
+			font-weight: lighter;	
+			font-size: 1.2em;
+			line-height: 1.5;
+			text-align: center;
+		}
+	
+		img:hover {
+			opacity: 60%;	
+			
+		}	
+		
+		h1 {
+			font-family: Helvetica;
+			text-align: center;		
+		}	
+		
+		.about {	
+			padding: 100px;			
+			
+			text-align: left;
+			font-family: Helvetica;
+			font-weight: lighter;
+			font-size: 1.2em;
+		}
+
+		a {
+			text-decoration: none;
+			color: black;
+		}		
+		
+		a:hover {
+		text-decoration: underline;
+		color: black;
+		text-transform: none;		
+		}
+		
+		table, th, td {
+			padding: 100px;
+		}
+	
+		table:first-child {
+			font-weight: lighter;
+		}
+		
+		table {
+			border-spacing: 0px;
+			border-collapse: collapse;
+			text-decoration: none;
+			
+
+		}

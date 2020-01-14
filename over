@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style type="text/css">
+p {
+display: block;
+margin-top: 2em;
+margin-bottom: 1em;
+margin-left: 10em;
+margin-right: 50em;
+}
+</style>
+<meta charset="utf-8" />
+<title></title>
+</head>
+<body>
+<p>you don't talk to me anymore. it was weird, after the <a href="musical">musical</a>. i was with jacob and i was happy and i couldn't tell if you and jordan were watching me. 
+i hoped you weren't. <a href="home">we haven't really talked since then</a>. 
+</p>
+</body>
+</html>

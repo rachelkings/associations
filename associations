@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="stylesheet.css" />
+	<title>associations</title>
+</head>
+<body>
+<div class="header">
+	<p><a href="index">index</a></p>
+</div>
+
+	<table style="width:100%">
+		<tr>
+			<th><a href="crab"><img src="crab.JPG" alt="crab"></a></th>	
+						<th>
+				<a href="trees"><img src="trees.JPG" alt="trees">	</a>		
+			</th>	
+		</tr>	
+		<tr>
+			<th>
+				<img src="rock.JPG" alt="rock">			
+			</th>
+
+			<th>
+				<img src="nuitblanche.JPG" alt="friends">			
+			</th>
+	
+		</tr>
+
+	</table>
+
+</body>
+</html>

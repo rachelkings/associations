@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>victoria</title>
+<style type="text/css">
+		img {
+			width: 800px;
+			height: 60%;
+			padding-left: 100px;
+			padding-top: 0px;
+		}
+		
+		img:hover {
+			opacity: 60%;		
+		}		
+		
+		p {
+			font-family: Helvetica;
+			font-weight: lighter;	
+			font-size: 1.2em;
+			line-height: 1.5;
+
+		}
+		th {
+			text-align: inherit;
+			te
+			padding: 70px;
+			padding-right: 120px;
+			padding-top: 100px;
+		}
+		table {
+			
+			border-spacing: 20px;		
+
+		}
+
+	</style>
+
+
+</head>
+<body>
+<table style="width:100%">
+		<tr>
+			<th><a href="images2"><img src="crab.JPG" alt="crab"><a/></th>		
+			<th>
+				<p> 
+					We ate sushi on our last night alone, together, as a family, just my parents and I. Where were we that night?
+					I can't really remember. A quiet rest stop off the highway. 
+					Somewhere outside Victoria, maybe, on a bench overlooking the ocean. Someone had left their dog tied
+				   to their truck bed and the dog kept trying to jump down and I couldn't stop imagining it hanging
+				   from its leash or, forgotten, dragged along the dirt road by a careless driver. Nothing bad happened.
+				   We were alone, and we were together. It wasn't about happiness (although we were happy) but rather
+				   the bittersweetness of our last night on the west coast alone/together. We'd spent the first couple nights
+				   with family, before embarking upon our own journey up the coast, but now we were returning to spend
+				   the last night of our trip with them. (We'd planned the trip before staying with them, so we hadn't really
+				   had any way of knowing that we'd barely be able to stand another minute with them. These were my
+				   thoughts, at least. I'm horribly incapable of hiding my feelings, and my parents are the exact 
+				   opposite.)
+ 				</p>			
+			</th>
+		</tr>	
+</table>
+</body>
+</html>
